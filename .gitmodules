@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "apastats"]
-	path = apastats
+[submodule "apastats2"]
+	path = apastats2
 	url = https://github.com/achetverikov/apastats
 	registered = false
 [submodule "circhelp"]
